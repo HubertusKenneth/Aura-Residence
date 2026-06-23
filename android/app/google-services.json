@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "544496078056",
+    "project_id": "ta-apartment",
+    "storage_bucket": "ta-apartment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544496078056:android:413ac517f5ed70330e4d5d",
+        "android_client_info": {
+          "package_name": "com.example.my_apart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCah1WKgYWw4lJX6m0VdNjk7nuIQhWQp9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544496078056:android:d1d22788391428c60e4d5d",
+        "android_client_info": {
+          "package_name": "com.example.ta_apartment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCah1WKgYWw4lJX6m0VdNjk7nuIQhWQp9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544496078056:android:8a672d1bc3c9cb1e0e4d5d",
+        "android_client_info": {
+          "package_name": "com.ta.apartment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCah1WKgYWw4lJX6m0VdNjk7nuIQhWQp9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

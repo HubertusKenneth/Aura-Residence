@@ -1,0 +1,70 @@
+flutter/ephemeral
+# -------------------------------------------------------------------------
+# Aura Residence - Secure .gitignore (PUBLIC REPO MODE)
+# -------------------------------------------------------------------------
+
+# 1. KUNCI RAHASIA & API KEY (WAJIB BLOKIR) 🚨
+.env
+.env.*
+android/key.properties
+*.jks
+*.keystore
+
+# 2. FIREBASE CONFIGURATION (WAJIB BLOKIR UNTUK PUBLIC REPO) 🚨
+lib/firebase_options.dart
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+macos/Runner/GoogleService-Info.plist
+
+# -------------------------------------------------------------------------
+# Flutter & Dart Bawaan (Bikin penuh repo kalau di-push)
+# -------------------------------------------------------------------------
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter/ephemeral
+
+# File pencatatan plugin Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# -------------------------------------------------------------------------
+# Konfigurasi Android Lokal
+# -------------------------------------------------------------------------
+android/local.properties
+android/app/##local.properties##
+android/app/GeneratedPluginRegistrant.java
+
+# -------------------------------------------------------------------------
+# Konfigurasi iOS & macOS Lokal
+# -------------------------------------------------------------------------
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+ios/Pods/
+ios/.symlinks/
+macos/Flutter/GeneratedMacos.xcconfig
+macos/Flutter/flutter_export_environment.sh
+macos/Runner/GeneratedPluginRegistrant.h
+macos/Runner/GeneratedPluginRegistrant.m
+Pods/
+
+# -------------------------------------------------------------------------
+# Log, Cache, & File Sampah OS (Windows/Mac)
+# -------------------------------------------------------------------------
+*.log
+*.crash
+.DS_Store
+Thumbs.db
+
+# -------------------------------------------------------------------------
+# Settingan Editor (Android Studio / VS Code)
+# -------------------------------------------------------------------------
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
