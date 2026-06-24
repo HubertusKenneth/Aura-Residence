@@ -16,7 +16,7 @@ The Apartment Management System (Aura Residence) is a modern, premium mobile app
 - **Maintenance:** Submit and track maintenance requests.
 - **Complaints:** Report and manage complaints within the apartment complex efficiently.
 - **Parking:** Reserve and manage parking spaces.
-- **Club House Requests:** Allow users to request the use of the club house for private events like birthday parties or gatherings.
+- **Booking Facility:** Allow users to use and book the facility that provided.
 
 ### Administration & Finances
 - **Member Management:** Maintain a secure database of apartment residents and manage their information.
