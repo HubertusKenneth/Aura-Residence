@@ -77,10 +77,11 @@ This app uses a `.env` file to securely store the Google Gemini API key.
 - Add your Gemini API Key inside the file like this:
 ```env
 GEMINI_API_KEY=your_gemini_api_key_here
-```
+``` 
 
 **5. Run the Application**
 Ensure you have an emulator running or a physical device connected.
 ```bash
 flutter run
 ```
+
